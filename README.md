@@ -18,7 +18,7 @@ Also build a predictive model using some variables.
 
 
 
-Some plots of the analysis:
+# Some plots of the analysis:
 
 ![Lifestyle plot](https://user-images.githubusercontent.com/126076818/220638184-9a693f3e-07c0-4d4e-a05b-32952876de12.png)
 
