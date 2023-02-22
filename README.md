@@ -16,3 +16,14 @@ The aim of this analysis it's finding correlation between variables and determin
 Also build a predictive model using some variables.
 
 
+
+
+Some plots of the analysis:
+
+![Lifestyle plot](https://user-images.githubusercontent.com/126076818/220638184-9a693f3e-07c0-4d4e-a05b-32952876de12.png)
+
+![Chol and gluc plot](https://user-images.githubusercontent.com/126076818/220639856-9498e8e2-a0be-4de6-9fbc-19b038634c29.png)
+
+![Age tendency plot](https://user-images.githubusercontent.com/126076818/220639772-756bc195-3b88-4e8e-b193-faf46cc239f5.png)
+
+![Logistic regression model](https://user-images.githubusercontent.com/126076818/220639897-09b169a0-9d53-44b3-800a-92e22cc9b924.png)
