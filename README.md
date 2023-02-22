@@ -1,4 +1,4 @@
-# Cardiovascular-disease-analysis---R
+# Cardiovascular disease analysis - R
 ### Lorenzo Vázquez
 ### 22/02/2023
 Exploring risk factors for cardiovascular diseases in adults
