@@ -1,4 +1,6 @@
 # Cardiovascular-disease-analysis---R
+### Lorenzo Vázquez
+### 22/02/2023
 Exploring risk factors for cardiovascular diseases in adults
 
 This dataset contains detailed information on the risk factors for cardiovascular disease. It includes information on age, gender, height, weight, blood pressure values, cholesterol levels, glucose levels, smoking habits and alcohol consumption of over 70 thousand individuals. Additionally it outlines if the person is active or not and if he or she has any cardiovascular diseases.
@@ -18,7 +20,8 @@ Also build a predictive model using some variables.
 
 
 
-# Some plots of the analysis:
+# Some plots from the analysis:
+
 
 ![Lifestyle plot](https://user-images.githubusercontent.com/126076818/220638184-9a693f3e-07c0-4d4e-a05b-32952876de12.png)
 
